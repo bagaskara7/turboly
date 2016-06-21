@@ -143,8 +143,8 @@
     </div>
     <script src="{{ asset('js/jquery-1.10.2.js') }}" type="text/javascript"></script>
     <script src="{{ asset('js/bootstrap.min.js') }}" type="text/javascript"></script>
-    <script src="{{ asset('js/vue.js') }}" type="text/javascript"></script>
-    <script src="{{ asset('js/vue-strap.js') }}" type="text/javascript"></script>
+    <script src="{{ asset('js/vue.min.js') }}" type="text/javascript"></script>
+    <script src="{{ asset('js/vue-strap.min.js') }}" type="text/javascript"></script>
     <script src="{{ asset('js/vue-resource.min.js') }}" type="text/javascript"></script>
     <script src="{{ asset('js/sweetalert2.min.js') }}"></script>
     <script src="{{ asset('js/bootstrap-notify.js') }}"></script>
