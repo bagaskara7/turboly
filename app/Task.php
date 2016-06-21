@@ -17,7 +17,7 @@ class Task extends Model
     protected $dates = ['deleted_at'];
 
     /**
-     * Define relationship to Task model
+     * Define relationship to User model
      */
     public function user()
     {
